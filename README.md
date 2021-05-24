@@ -1,7 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Hulu-Clone
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
+Used: Next.js, Tailwind CSS, ReactJS, Server-side rendering. Hosted on Vercel.
 
 ## Hosted URL
-https://hulu-clone-ebon.vercel.app/
+Click on https://hulu-clone-ebon.vercel.app/ to open it on browser.
 
 
 ## Getting Started
